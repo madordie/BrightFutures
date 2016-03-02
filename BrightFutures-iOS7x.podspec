@@ -14,7 +14,5 @@ Pod::Spec.new do |s|
 
   s.source_files = 'BrightFutures/*.swift'
 
-  s.dependency 'Result-iOS7x', :git => 'https://github.com/madordie/Result-iOS7.0.git'
-
   s.requires_arc = true
 end
