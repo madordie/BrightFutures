@@ -21,7 +21,7 @@
 // SOFTWARE.
 
 import Foundation
-import Result
+import Result_iOS7x
 
 extension SequenceType {
     /// Turns a sequence of T's into an array of `Future<U>`'s by calling the given closure for each element in the sequence.

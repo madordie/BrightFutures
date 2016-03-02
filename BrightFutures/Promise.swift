@@ -21,7 +21,7 @@
 // SOFTWARE.
 
 import Foundation
-import Result
+import Result_iOS7x
 
 /// The source of a future. Create a `Promise` when you are
 /// performing an asynchronous task and want to return a future.

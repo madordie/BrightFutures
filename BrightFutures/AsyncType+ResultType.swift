@@ -5,7 +5,7 @@
 //  Created by Thomas Visser on 10/07/15.
 //  Copyright © 2015 Thomas Visser. All rights reserved.
 //
-import Result
+import Result_iOS7x
 
 public extension AsyncType where Value: ResultType {
     /// `true` if the future completed with success, or `false` otherwise

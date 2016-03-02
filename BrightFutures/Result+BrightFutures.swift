@@ -6,7 +6,7 @@
 //  Copyright © 2015 Thomas Visser. All rights reserved.
 //
 
-import Result
+import Result_iOS7x
 
 extension ResultType {
     /// Enables the chaining of two failable operations where the second operation is asynchronous and
