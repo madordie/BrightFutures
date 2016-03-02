@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'BrightFutures-iOS7x'
-  s.version = '3.3.0.2'
+  s.version = '3.3.0.3'
   s.license = 'MIT'
   s.summary = 'Write great asynchronous code in Swift using futures and promises'
   s.homepage = 'https://github.com/madordie/BrightFutures'
