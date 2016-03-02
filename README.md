@@ -1,5 +1,6 @@
 # **BrightFutures-iOS7.0**
 The revised version is the minimum compatible version iOS7.0, and did not do tests and other changes, if you need to use, self-testing, and can commit changes. --from google translate
+
 该版本只是修改了最低兼容版本iOS7.0，并没有做测试和其它更改，如果你需要使用，请自行测试，并可以提交修改。
 ```
 pod 'Result-iOS7x', :git => 'https://github.com/madordie/Result-iOS7.0.git'
