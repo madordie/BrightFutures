@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'BrightFutures-iOS7x'
-  s.version = '3.3.0.1'
+  s.version = '3.3.0.2'
   s.license = 'MIT'
   s.summary = 'Write great asynchronous code in Swift using futures and promises'
   s.homepage = 'https://github.com/madordie/BrightFutures'
@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
 
   s.source_files = 'BrightFutures/*.swift'
 
-  s.dependency 'Result', :git => 'https://github.com/madordie/Result-iOS7.0.git'
+  s.dependency 'Result-iOS7x', :git => 'https://github.com/madordie/Result-iOS7.0.git'
 
   s.requires_arc = true
 end
